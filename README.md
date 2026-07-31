@@ -43,7 +43,7 @@ Bonded 4G/5G is a demanding field with a small number of serious players. Stayin
 
 ## How to Apply
 
-Send your CV and relevant examples of your work to recruitment@arxion.com. Include:
+Send your CV and relevant examples of your work to recruitment[at]arxion.com. Include:
 - Which role you're applying for
 - Brief description of relevant experience
 - Links to GitHub, portfolio, or relevant projects
