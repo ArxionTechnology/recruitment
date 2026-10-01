@@ -37,7 +37,6 @@ Bonded 4G/5G is a demanding field with a small number of serious players. Stayin
 - [Software Developer (Backend/Full-Stack)](./roles/software-developer.md)
 - [Linux / OpenWRT Developer](./roles/linux-openwrt-developer.md)
 - [QA/QC Engineer](./roles/qa-qc-engineer.md)
-- [Testing Automation Developer](./roles/test-automation-developer.md)
 
 ---
 
